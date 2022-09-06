@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972985114310",
+    "project_id": "newchattapp-cafc3",
+    "storage_bucket": "newchattapp-cafc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972985114310:android:3650e1585deb41ea0941c7",
+        "android_client_info": {
+          "package_name": "com.example.new_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972985114310-dci30jd4948th4uck2cj15cupd1eft5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApFhgwWEjGtv6UZ-uxgRbk-I8odPd_IYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972985114310-dci30jd4948th4uck2cj15cupd1eft5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
