@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:new_chat_app/view/auth_page.dart';
+import 'package:new_chat_app/view/status_page.dart';
 
 
 void main() async{
@@ -20,7 +21,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      home: AuthPage(),
+      home: StatusPage(),
     );
   }
 }

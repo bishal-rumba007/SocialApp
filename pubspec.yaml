@@ -46,6 +46,7 @@ dependencies:
   firebase_messaging: ^13.0.0
   image_picker: ^0.8.5+3
   sizer: ^2.0.15
+  cloud_firestore: ^3.4.6
 
 
 dev_dependencies:
