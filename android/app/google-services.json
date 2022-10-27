@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201558869840",
+    "project_id": "eg-reach-c70f0",
+    "storage_bucket": "eg-reach-c70f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201558869840:android:8b34a5fb36efb0f9380e55",
+        "android_client_info": {
+          "package_name": "com.example.eg_reach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201558869840-21c82vnhhlmk908v00l6du6qucurkqlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyT3SiTp-_63yAwzmxtnF6xIEIgeTwT4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201558869840-21c82vnhhlmk908v00l6du6qucurkqlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
